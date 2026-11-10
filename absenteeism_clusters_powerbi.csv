@@ -1,0 +1,771 @@
+ID,Reason for absence,Month of absence,Day of the week,Transportation expense,Estimated commute time,Service time,Years until retirement,Disciplinary failure,Education,Number of children,Social drinker,Social smoker,Number of pets,Body mass index,Absenteeism time in hours,Age,cluster
+11,Unjustified absence,July,Tuesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,4.0,33.0,4
+36,Unspecified,July,Tuesday,118.0,26.0,18.0,15.0,1,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+3,Medical consultation,July,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+7,Diseases of the eye and adnexa,July,Thursday,279.0,5.0,14.0,26.0,0,1,2.0,1,1,0.0,24.0,4.0,39.0,1
+11,Medical consultation,July,Thursday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,2.0,33.0,4
+3,Medical consultation,July,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+10,Patient follow-up,July,Friday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+20,Medical consultation,July,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+14,"Injury, poisoning and other consequences of external causes",July,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,40.0,34.0,2
+1,Patient follow-up,July,Monday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+20,Certain infectious and parasitic diseases,July,Monday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+20,Dental consultation,March,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+20,Certain infectious and parasitic diseases,July,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+20,Diseases of the digestive system,July,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+3,Diseases of the digestive system,July,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+3,Physiotherapy,March,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+3,Medical consultation,July,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+24,Diseases of the genitourinary system,July,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,1
+3,Medical consultation,July,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+3,Factors influencing health status and contact with health services,July,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+6,Diseases of the digestive system,July,Thursday,189.0,56.0,13.0,32.0,0,1,2.0,0,0,2.0,25.0,8.0,33.0,3
+33,Medical consultation,August,Wednesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,2.0,47.0,1
+18,Diseases of the respiratory system,August,Wednesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+3,Diseases of the digestive system,August,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+10,Diseases of the musculoskeletal system and connective tissue,August,Monday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,40.0,28.0,5
+20,Dental consultation,August,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+11,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+10,Laboratory examination,August,Monday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,7.0,28.0,5
+10,Patient follow-up,March,Wednesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,7.0,28.0,5
+11,Medical consultation,August,Tuesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,1.0,33.0,4
+30,Dental consultation,August,Wednesday,157.0,45.0,6.0,36.0,0,1,0.0,1,1,0.0,22.0,4.0,29.0,3
+11,"Symptoms, signs and abnormal clinical and laboratory findings",August,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+3,Medical consultation,August,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+3,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+2,"Symptoms, signs and abnormal clinical and laboratory findings",August,Thursday,235.0,59.0,12.0,17.0,0,1,1.0,0,1,4.0,33.0,8.0,48.0,1
+1,Medical consultation,August,Thursday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,4.0,37.0,3
+2,"Symptoms, signs and abnormal clinical and laboratory findings",August,Monday,235.0,59.0,12.0,17.0,0,1,1.0,0,1,4.0,33.0,8.0,48.0,1
+3,Medical consultation,August,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+10,Medical consultation,August,Monday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,1.0,28.0,5
+11,Blood donation,August,Tuesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+19,Diseases of the digestive system,August,Thursday,291.0,97.0,12.0,33.0,0,1,0.0,1,0,0.0,23.0,4.0,32.0,4
+2,Dental consultation,August,Friday,235.0,59.0,12.0,17.0,0,1,1.0,0,1,4.0,33.0,8.0,48.0,1
+20,Medical consultation,August,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+27,Medical consultation,September,Tuesday,184.0,81.0,7.0,38.0,0,1,0.0,0,0,0.0,21.0,2.0,27.0,3
+34,Medical consultation,September,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,4.0,37.0,3
+3,Medical consultation,September,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+5,"Injury, poisoning and other consequences of external causes",September,Tuesday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+14,Medical consultation,September,Wednesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+14,Medical consultation,March,Wednesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+34,Medical consultation,September,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+3,Medical consultation,September,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+15,Medical consultation,September,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,4.0,40.0,4
+20,Patient follow-up,September,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+15,Diseases of the genitourinary system,September,Monday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,32.0,40.0,2
+20,Unspecified,September,Monday,260.0,94.0,11.0,29.0,1,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+29,Unspecified,September,Monday,225.0,48.0,15.0,24.0,1,4,2.0,1,0,2.0,28.0,8.0,28.0,4
+28,Medical consultation,September,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+34,Medical consultation,September,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+11,Unspecified,September,Tuesday,289.0,69.0,13.0,32.0,1,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+36,Unspecified,September,Tuesday,118.0,26.0,18.0,15.0,1,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+28,"Symptoms, signs and abnormal clinical and laboratory findings",September,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+3,Medical consultation,September,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+13,Unspecified,September,Wednesday,369.0,28.0,12.0,34.0,1,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+33,Medical consultation,September,Friday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,1.0,47.0,1
+3,Medical consultation,September,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+20,Medical consultation,September,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+3,Medical consultation,October,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Physiotherapy,March,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+34,Medical consultation,October,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+36,Unspecified,October,Wednesday,118.0,26.0,18.0,15.0,1,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+22,Medical consultation,October,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,1.0,30.0,3
+3,Medical consultation,October,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+28,Medical consultation,October,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+28,Medical consultation,October,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+33,Medical consultation,October,Wednesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,2.0,47.0,1
+15,Medical consultation,October,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,5.0,40.0,4
+3,Medical consultation,October,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+28,Medical consultation,October,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+20,"Injury, poisoning and other consequences of external causes",October,Thursday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,16.0,36.0,4
+20,Dental consultation,March,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,16.0,36.0,4
+15,Diseases of the genitourinary system,October,Tuesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,8.0,40.0,4
+15,Dental consultation,March,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,8.0,40.0,4
+28,Dental consultation,October,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+11,Unjustified absence,October,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+10,Medical consultation,October,Friday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,1.0,28.0,5
+20,Dental consultation,October,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+3,Medical consultation,November,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+28,Medical consultation,November,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+3,Diseases of the musculoskeletal system and connective tissue,November,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+17,Factors influencing health status and contact with health services,November,Thursday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+15,Medical consultation,November,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,5.0,40.0,4
+14,Diseases of the respiratory system,November,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,32.0,34.0,2
+6,Patient follow-up,November,Monday,189.0,56.0,13.0,32.0,0,1,2.0,0,0,2.0,25.0,8.0,33.0,3
+15,Diseases of the genitourinary system,November,Monday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,40.0,40.0,2
+28,Medical consultation,November,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+14,Diseases of the nervous system,November,Friday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,8.0,34.0,1
+28,Medical consultation,November,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+17,Factors influencing health status and contact with health services,November,Wednesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+28,Diseases of the musculoskeletal system and connective tissue,November,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+20,Dental consultation,November,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+33,Dental consultation,November,Monday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,1.0,47.0,1
+28,Dental consultation,November,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+11,Diseases of the eye and adnexa,November,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,24.0,33.0,2
+15,Medical consultation,November,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,3.0,40.0,4
+33,Medical consultation,December,Tuesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,1.0,47.0,1
+34,"Injury, poisoning and other consequences of external causes",December,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,40.0,37.0,2
+36,Medical consultation,December,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,2.0,50.0,1
+1,Unjustified absence,December,Wednesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,3
+28,Medical consultation,December,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+20,Unjustified absence,December,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+34,"Injury, poisoning and other consequences of external causes",December,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,40.0,37.0,2
+10,Patient follow-up,December,Wednesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+28,Dental consultation,December,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+20,Dental consultation,December,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+28,Medical consultation,December,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+34,Physiotherapy,December,Friday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+24,"Injury, poisoning and other consequences of external causes",December,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,0
+28,Medical consultation,December,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+28,Medical consultation,January,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+34,"Injury, poisoning and other consequences of external causes",January,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,1.0,37.0,3
+34,Physiotherapy,January,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,1.0,37.0,3
+34,Dental consultation,March,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,1.0,37.0,3
+14,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,8.0,34.0,1
+28,Physiotherapy,January,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+27,Medical consultation,January,Thursday,184.0,81.0,7.0,38.0,0,1,0.0,0,0,0.0,21.0,2.0,27.0,3
+28,Dental consultation,January,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+28,Physiotherapy,January,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+28,Medical consultation,March,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+34,Physiotherapy,January,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+28,Physiotherapy,January,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+34,Physiotherapy,January,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+34,Physiotherapy,January,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+34,Physiotherapy,January,Thursday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+34,Physiotherapy,January,Friday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+22,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,8.0,30.0,3
+11,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+34,Physiotherapy,January,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+34,Dental consultation,March,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+27,Medical consultation,January,Thursday,184.0,81.0,7.0,38.0,0,1,0.0,0,0,0.0,21.0,2.0,27.0,3
+34,Physiotherapy,January,Thursday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+34,Physiotherapy,January,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+28,Medical consultation,January,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+11,Patient follow-up,January,Thursday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,3.0,33.0,4
+27,Medical consultation,February,Friday,184.0,81.0,7.0,38.0,0,1,0.0,0,0,0.0,21.0,1.0,27.0,3
+24,Certain infectious and parasitic diseases,February,Wednesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,0
+3,Diseases of the digestive system,February,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+14,Dental consultation,February,Thursday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+6,Medical consultation,February,Thursday,189.0,56.0,13.0,32.0,0,1,2.0,0,0,2.0,25.0,8.0,33.0,3
+20,Dental consultation,February,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,2.0,36.0,4
+20,Dental consultation,March,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,2.0,36.0,4
+11,Patient follow-up,February,Friday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+31,Diseases of the digestive system,February,Monday,378.0,31.0,9.0,15.0,0,1,0.0,0,0,0.0,24.0,8.0,50.0,1
+31,Certain infectious and parasitic diseases,February,Tuesday,378.0,31.0,9.0,15.0,0,1,0.0,0,0,0.0,24.0,8.0,50.0,1
+28,Dental consultation,February,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+28,Medical consultation,February,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+22,Medical consultation,February,Tuesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,1.0,30.0,3
+27,Medical consultation,February,Tuesday,184.0,81.0,7.0,38.0,0,1,0.0,0,0,0.0,21.0,8.0,27.0,3
+28,Laboratory examination,February,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+18,"Symptoms, signs and abnormal clinical and laboratory findings",February,Monday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+18,Medical consultation,February,Tuesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,1.0,28.0,3
+28,Medical consultation,February,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+6,"Injury, poisoning and other consequences of external causes",February,Thursday,189.0,56.0,13.0,32.0,0,1,2.0,0,0,2.0,25.0,8.0,33.0,3
+19,Dental consultation,March,Tuesday,291.0,97.0,12.0,33.0,0,1,0.0,1,0,0.0,23.0,2.0,32.0,0
+20,"Injury, poisoning and other consequences of external causes",March,Tuesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+30,"Injury, poisoning and other consequences of external causes",March,Tuesday,157.0,45.0,6.0,36.0,0,1,0.0,1,1,0.0,22.0,3.0,29.0,3
+17,"Congenital malformations, deformations and chromosomal abnormalities",March,Tuesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+15,Patient follow-up,March,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,8.0,40.0,4
+20,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+22,Diseases of the musculoskeletal system and connective tissue,March,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,8.0,30.0,3
+33,Diseases of the genitourinary system,March,Friday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,3.0,47.0,1
+33,Medical consultation,March,Wednesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,3.0,47.0,1
+20,Diseases of the musculoskeletal system and connective tissue,March,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,40.0,36.0,2
+17,Diseases of the digestive system,March,Monday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,40.0,40.0,2
+14,Certain infectious and parasitic diseases,March,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,16.0,34.0,1
+20,Unjustified absence,March,Monday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,16.0,36.0,4
+14,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,8.0,34.0,1
+11,Diseases of the nervous system,March,Thursday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+17,Diseases of the ear and mastoid process,March,Thursday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+17,Laboratory examination,March,Wednesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+20,Dental consultation,March,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+28,Medical consultation,March,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+7,Diseases of the genitourinary system,March,Monday,279.0,5.0,14.0,26.0,0,1,2.0,1,1,0.0,24.0,8.0,39.0,1
+3,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,24.0,38.0,0
+28,Medical consultation,March,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+28,Diseases of the digestive system,March,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+22,Diseases of the musculoskeletal system and connective tissue,March,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,1.0,30.0,3
+28,Diseases of the digestive system,March,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+28,Diseases of the digestive system,March,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,16.0,28.0,3
+3,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+7,Diseases of the genitourinary system,March,Thursday,279.0,5.0,14.0,26.0,0,1,2.0,1,1,0.0,24.0,16.0,39.0,1
+28,Dental consultation,March,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+33,Diseases of the genitourinary system,March,Friday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,3.0,47.0,1
+28,Dental consultation,March,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+15,Dental consultation,April,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,1.0,40.0,4
+28,Medical consultation,April,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+14,Dental consultation,April,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,1.0,34.0,1
+24,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,24.0,41.0,2
+14,Medical consultation,April,Thursday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,1.0,34.0,1
+28,Dental consultation,April,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+20,Dental consultation,April,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+3,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,24.0,38.0,0
+36,Medical consultation,April,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+15,Medical consultation,April,Friday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,3.0,40.0,4
+24,Diseases of the genitourinary system,April,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,1
+15,Dental consultation,April,Friday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,1.0,40.0,4
+33,Dental consultation,April,Friday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,8.0,47.0,1
+20,"Injury, poisoning and other consequences of external causes",April,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,40.0,36.0,2
+11,"Injury, poisoning and other consequences of external causes",April,Tuesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+14,Diseases of the skin and subcutaneous tissue,April,Wednesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,24.0,34.0,2
+23,"Injury, poisoning and other consequences of external causes",April,Wednesday,378.0,98.0,11.0,29.0,0,1,2.0,0,1,4.0,21.0,8.0,36.0,5
+11,Diseases of the musculoskeletal system and connective tissue,April,Thursday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,16.0,33.0,4
+1,Diseases of the eye and adnexa,April,Friday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,3.0,37.0,1
+2,Unspecified,April,Monday,235.0,59.0,12.0,17.0,1,1,1.0,0,1,4.0,33.0,8.0,48.0,1
+11,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+14,Dental consultation,May,Thursday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+14,Dental consultation,May,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,1.0,34.0,1
+3,"Symptoms, signs and abnormal clinical and laboratory findings",May,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+28,"Injury, poisoning and other consequences of external causes",May,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+27,Diseases of the eye and adnexa,May,Wednesday,184.0,81.0,7.0,38.0,0,1,0.0,0,0,0.0,21.0,4.0,27.0,3
+14,Dental consultation,May,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+3,Diseases of the skin and subcutaneous tissue,May,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+11,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,24.0,33.0,2
+7,Unspecified,May,Wednesday,279.0,5.0,14.0,26.0,1,1,2.0,1,1,0.0,24.0,8.0,39.0,1
+18,Unspecified,May,Wednesday,330.0,34.0,4.0,37.0,1,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+23,Unspecified,May,Wednesday,378.0,98.0,11.0,29.0,1,1,2.0,0,1,4.0,21.0,8.0,36.0,5
+31,Unspecified,May,Wednesday,378.0,31.0,9.0,15.0,1,1,0.0,0,0,0.0,24.0,8.0,50.0,1
+3,Diseases of the digestive system,May,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+36,Diseases of the musculoskeletal system and connective tissue,May,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,24.0,50.0,2
+10,Patient follow-up,May,Friday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+24,"Injury, poisoning and other consequences of external causes",June,Monday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,1
+10,Patient follow-up,June,Monday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+24,Diseases of the respiratory system,June,Tuesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,24.0,41.0,2
+15,Medical consultation,June,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,4.0,40.0,4
+24,Diseases of the respiratory system,June,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,1
+3,Diseases of the digestive system,June,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+14,Medical consultation,June,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,4.0,34.0,1
+24,Diseases of the respiratory system,June,Monday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,1
+36,Diseases of the musculoskeletal system and connective tissue,June,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+1,Diseases of the musculoskeletal system and connective tissue,June,Friday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,16.0,37.0,1
+36,Medical consultation,June,Tuesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+36,Diseases of the musculoskeletal system and connective tissue,June,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,40.0,50.0,2
+36,Medical consultation,March,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,40.0,50.0,2
+23,Patient follow-up,June,Thursday,378.0,98.0,11.0,29.0,0,1,2.0,0,1,4.0,21.0,8.0,36.0,5
+3,Diseases of the digestive system,June,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+3,Physiotherapy,March,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+32,Dental consultation,June,Monday,289.0,94.0,29.0,16.0,0,1,0.0,0,0,2.0,36.0,2.0,49.0,0
+28,Dental consultation,June,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+14,"Injury, poisoning and other consequences of external causes",July,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,16.0,34.0,1
+36,Certain infectious and parasitic diseases,July,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+34,Mental and behavioural disorders,July,Friday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+34,Unjustified absence,July,Friday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,4.0,37.0,3
+18,Unjustified absence,July,Tuesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+22,"Symptoms, signs and abnormal clinical and laboratory findings",July,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,8.0,30.0,3
+14,Laboratory examination,July,Friday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+18,Certain infectious and parasitic diseases,July,Monday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+18,Certain infectious and parasitic diseases,July,Tuesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+30,Laboratory examination,July,Monday,157.0,45.0,6.0,36.0,0,1,0.0,1,1,0.0,22.0,3.0,29.0,3
+10,Patient follow-up,July,Tuesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+11,Unjustified absence,July,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+3,Unjustified absence,July,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+11,"Injury, poisoning and other consequences of external causes",July,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,32.0,33.0,2
+11,"Injury, poisoning and other consequences of external causes",July,Thursday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+20,Unspecified,July,Thursday,260.0,94.0,11.0,29.0,1,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+11,"Injury, poisoning and other consequences of external causes",August,Friday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+30,"Injury, poisoning and other consequences of external causes",August,Friday,157.0,45.0,6.0,36.0,0,1,0.0,1,1,0.0,22.0,3.0,29.0,3
+11,Medical consultation,August,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,1.0,33.0,4
+9,"Symptoms, signs and abnormal clinical and laboratory findings",August,Tuesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,8.0,58.0,1
+26,Diseases of the musculoskeletal system and connective tissue,August,Thursday,300.0,50.0,13.0,22.0,0,1,2.0,1,1,1.0,25.0,1.0,43.0,4
+26,Diseases of the genitourinary system,August,Thursday,300.0,50.0,13.0,22.0,0,1,2.0,1,1,1.0,25.0,2.0,43.0,4
+20,Dental consultation,August,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+11,Medical consultation,August,Tuesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,4.0,33.0,4
+11,"Injury, poisoning and other consequences of external causes",March,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,4.0,33.0,4
+33,Medical consultation,August,Wednesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,1.0,47.0,1
+21,Diseases of the digestive system,August,Thursday,268.0,22.0,8.0,32.0,0,2,0.0,0,0,0.0,25.0,8.0,33.0,3
+22,Medical consultation,August,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,1.0,30.0,3
+36,Diseases of the musculoskeletal system and connective tissue,August,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,3.0,50.0,1
+33,Laboratory examination,August,Monday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,2.0,47.0,1
+1,Medical consultation,August,Tuesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,1.0,37.0,1
+36,Medical consultation,August,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+1,"Injury, poisoning and other consequences of external causes",August,Thursday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+10,Diseases of the ear and mastoid process,August,Tuesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+27,Diseases of the nervous system,August,Wednesday,184.0,81.0,7.0,38.0,0,1,0.0,0,0,0.0,21.0,8.0,27.0,3
+3,Diseases of the digestive system,September,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+3,Medical consultation,September,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+11,"Injury, poisoning and other consequences of external causes",September,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,24.0,33.0,2
+11,"Injury, poisoning and other consequences of external causes",March,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,24.0,33.0,2
+5,Unspecified,September,Thursday,235.0,38.0,13.0,22.0,1,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+24,Diseases of the circulatory system,September,Monday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,16.0,41.0,1
+24,Dental consultation,March,Wednesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,16.0,41.0,0
+15,Dental consultation,September,Tuesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,3.0,40.0,4
+8,Unspecified,September,Tuesday,231.0,63.0,14.0,26.0,1,1,2.0,1,0,2.0,35.0,8.0,39.0,4
+19,Unspecified,September,Tuesday,291.0,97.0,12.0,33.0,1,1,0.0,1,0,0.0,23.0,8.0,32.0,0
+3,Diseases of the musculoskeletal system and connective tissue,September,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+24,Diseases of the circulatory system,September,Wednesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,32.0,41.0,2
+24,Dental consultation,March,Wednesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,32.0,41.0,2
+3,Medical consultation,September,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+15,Dental consultation,September,Friday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,4.0,40.0,4
+20,Dental consultation,September,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+5,Unjustified absence,September,Wednesday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+5,Unjustified absence,March,Wednesday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+36,Dental consultation,September,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+5,Unspecified,September,Thursday,235.0,38.0,13.0,22.0,1,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+15,Dental consultation,September,Friday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,3.0,40.0,4
+15,Diseases of the eye and adnexa,September,Monday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,40.0,40.0,2
+3,Diseases of the musculoskeletal system and connective tissue,September,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+11,Blood donation,October,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+1,Unjustified absence,October,Monday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,4.0,37.0,1
+11,Unjustified absence,October,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+11,Patient follow-up,October,Friday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+36,Unspecified,October,Friday,118.0,26.0,18.0,15.0,1,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+33,Unspecified,October,Friday,248.0,42.0,14.0,18.0,1,1,2.0,0,0,1.0,32.0,8.0,47.0,1
+22,Certain infectious and parasitic diseases,October,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,8.0,30.0,3
+34,Diseases of the eye and adnexa,October,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+13,Patient follow-up,October,Monday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+3,Dental consultation,October,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+22,Certain infectious and parasitic diseases,October,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,40.0,30.0,2
+5,Unspecified,October,Wednesday,235.0,38.0,13.0,22.0,1,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+11,"Injury, poisoning and other consequences of external causes",October,Thursday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,16.0,33.0,4
+20,Dental consultation,October,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+5,Unspecified,October,Friday,235.0,38.0,13.0,22.0,1,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+5,Medical consultation,October,Monday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,2.0,43.0,1
+36,Dental consultation,October,Tuesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+15,Dental consultation,October,Tuesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,4.0,40.0,4
+22,Medical consultation,October,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,16.0,30.0,3
+36,Dental consultation,October,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+10,Diseases of the respiratory system,October,Monday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+20,Unspecified,October,Tuesday,260.0,94.0,11.0,29.0,1,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+15,Unspecified,October,Tuesday,291.0,54.0,12.0,25.0,1,1,1.0,1,0,1.0,25.0,8.0,40.0,4
+30,Unspecified,October,Tuesday,157.0,45.0,6.0,36.0,1,1,0.0,1,1,0.0,22.0,8.0,29.0,3
+22,Certain infectious and parasitic diseases,October,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,5.0,30.0,3
+22,Diseases of the eye and adnexa,October,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,5.0,30.0,3
+36,Medical consultation,October,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+34,Diseases of the digestive system,November,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+33,Medical consultation,November,Monday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,2.0,47.0,1
+3,Diseases of the nervous system,November,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+20,Dental consultation,November,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+20,Dental consultation,March,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+15,Medical consultation,November,Monday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,1.0,40.0,4
+23,Certain infectious and parasitic diseases,November,Monday,378.0,98.0,11.0,29.0,0,1,2.0,0,1,4.0,21.0,8.0,36.0,5
+14,Diseases of the digestive system,November,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,40.0,34.0,2
+5,Unjustified absence,November,Monday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+18,Unspecified,November,Tuesday,330.0,34.0,4.0,37.0,1,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+1,"Symptoms, signs and abnormal clinical and laboratory findings",November,Wednesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,1.0,37.0,3
+34,Diseases of the digestive system,November,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+1,Laboratory examination,November,Thursday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,2.0,37.0,3
+3,Dental consultation,November,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+24,Diseases of the musculoskeletal system and connective tissue,November,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,0
+15,Diseases of the skin and subcutaneous tissue,November,Friday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,4.0,40.0,4
+24,Diseases of the musculoskeletal system and connective tissue,November,Monday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,0
+3,Dental consultation,November,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+20,Diseases of the respiratory system,November,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+20,"Pregnancy, childbirth and the puerperium",November,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+23,Unspecified,November,Friday,378.0,98.0,11.0,29.0,1,1,2.0,0,1,4.0,21.0,8.0,36.0,5
+7,Unspecified,November,Tuesday,279.0,5.0,14.0,26.0,1,1,2.0,1,1,0.0,24.0,8.0,39.0,1
+3,Medical consultation,November,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+28,Diseases of the skin and subcutaneous tissue,December,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+3,Dental consultation,December,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+3,Dental consultation,December,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+1,Medical consultation,December,Monday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,3.0,37.0,3
+36,Dental consultation,December,Tuesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+20,Dental consultation,December,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+20,Dental consultation,March,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+24,"Endocrine, nutritional and metabolic diseases",December,Thursday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,0
+3,Dental consultation,December,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+3,Dental consultation,December,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+22,Medical consultation,December,Tuesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,1.0,30.0,3
+34,Laboratory examination,December,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+1,Laboratory examination,December,Thursday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,2.0,37.0,3
+3,Dental consultation,December,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+5,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+1,Diseases of the genitourinary system,December,Tuesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,4.0,37.0,3
+20,Unjustified absence,December,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+30,Dental consultation,December,Monday,157.0,45.0,6.0,36.0,0,1,0.0,1,1,0.0,22.0,2.0,29.0,3
+3,Dental consultation,December,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+11,"Injury, poisoning and other consequences of external causes",December,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+28,Medical consultation,January,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,5.0,28.0,3
+34,"Injury, poisoning and other consequences of external causes",January,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,32.0,37.0,2
+14,Medical consultation,January,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+1,Diseases of the musculoskeletal system and connective tissue,January,Tuesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,1.0,37.0,3
+1,Medical consultation,March,Wednesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,1.0,37.0,3
+14,Medical consultation,January,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,4.0,34.0,1
+11,Unjustified absence,January,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+15,Diseases of the blood and blood-forming organs and immune mechanism,January,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,8.0,40.0,4
+5,Unjustified absence,January,Monday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+36,Unjustified absence,January,Monday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,4.0,50.0,1
+3,Dental consultation,January,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+3,Dental consultation,January,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+34,Dental consultation,February,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+3,Physiotherapy,February,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+28,Diseases of the eye and adnexa,February,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+11,Patient follow-up,February,Friday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,3.0,33.0,4
+20,Dental consultation,February,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+3,Medical consultation,February,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Physiotherapy,February,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+3,Physiotherapy,February,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Diseases of the respiratory system,February,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+24,Unjustified absence,February,Thursday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,0
+3,Physiotherapy,February,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+6,Patient follow-up,February,Monday,189.0,56.0,13.0,32.0,0,1,2.0,0,0,2.0,25.0,8.0,33.0,3
+3,Physiotherapy,February,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+24,Medical consultation,February,Tuesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,2.0,41.0,0
+15,Medical consultation,February,Tuesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,2.0,40.0,4
+30,Diseases of the digestive system,February,Wednesday,157.0,45.0,6.0,36.0,0,1,0.0,1,1,0.0,22.0,16.0,29.0,3
+3,Physiotherapy,February,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Physiotherapy,February,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+24,Diseases of the respiratory system,February,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,24.0,41.0,2
+3,Physiotherapy,February,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+34,"Symptoms, signs and abnormal clinical and laboratory findings",March,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+24,"Injury, poisoning and other consequences of external causes",March,Wednesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,16.0,41.0,1
+24,Dental consultation,March,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,2.0,41.0,0
+20,Dental consultation,March,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+3,Dental consultation,March,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+1,Patient follow-up,March,Monday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+17,Patient follow-up,March,Tuesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+23,Patient follow-up,March,Tuesday,378.0,98.0,11.0,29.0,0,1,2.0,0,1,4.0,21.0,8.0,36.0,5
+3,Dental consultation,March,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,16.0,38.0,0
+10,Patient follow-up,March,Wednesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+13,Unspecified,March,Wednesday,369.0,28.0,12.0,34.0,1,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+1,Factors influencing health status and contact with health services,March,Thursday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+36,Medical consultation,March,Friday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,2.0,50.0,1
+36,Medical consultation,March,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,2.0,50.0,1
+36,Diseases of the genitourinary system,March,Tuesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,3.0,50.0,1
+36,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+1,Unspecified,March,Thursday,235.0,20.0,14.0,28.0,1,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+24,Unspecified,March,Thursday,246.0,52.0,16.0,24.0,1,1,0.0,1,0,0.0,23.0,8.0,41.0,0
+36,Unspecified,March,Thursday,118.0,26.0,18.0,15.0,1,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+3,Dental consultation,March,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+11,Patient follow-up,March,Friday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+20,"Injury, poisoning and other consequences of external causes",March,Monday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+24,Dental consultation,March,Tuesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,2.0,41.0,0
+3,Dental consultation,April,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+20,Dental consultation,April,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+20,Dental consultation,March,Wednesday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+18,Unjustified absence,April,Friday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,4.0,28.0,3
+13,Patient follow-up,April,Monday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,4.0,31.0,4
+33,Unjustified absence,April,Monday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,4.0,47.0,1
+33,Medical consultation,March,Wednesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,4.0,47.0,1
+18,Medical consultation,April,Wednesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+3,Dental consultation,April,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+36,Medical consultation,April,Monday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+36,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,40.0,50.0,2
+26,Dental consultation,April,Friday,300.0,50.0,13.0,22.0,0,1,2.0,1,1,1.0,25.0,8.0,43.0,4
+20,Dental consultation,April,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+3,Dental consultation,April,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+34,Diseases of the digestive system,April,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+5,Diseases of the musculoskeletal system and connective tissue,May,Monday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,16.0,43.0,1
+33,Medical consultation,May,Wednesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,2.0,47.0,1
+13,Diseases of the respiratory system,May,Monday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+22,Medical consultation,May,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,3.0,30.0,3
+3,Dental consultation,May,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+10,Medical consultation,May,Thursday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,1.0,28.0,5
+10,Patient follow-up,March,Wednesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,1.0,28.0,5
+20,Dental consultation,May,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+17,Diseases of the digestive system,May,Monday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,2.0,40.0,1
+17,Diseases of the ear and mastoid process,May,Monday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,3.0,40.0,1
+9,"Symptoms, signs and abnormal clinical and laboratory findings",May,Wednesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,8.0,58.0,1
+28,Laboratory examination,May,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+18,Diseases of the musculoskeletal system and connective tissue,May,Tuesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+22,Laboratory examination,May,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+34,Dental consultation,May,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,1.0,37.0,3
+1,Certain infectious and parasitic diseases,May,Monday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+22,Medical consultation,May,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,3.0,30.0,3
+34,Medical consultation,June,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+3,Dental consultation,June,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+34,Dental consultation,June,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+28,Medical consultation,June,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,4.0,28.0,3
+20,Dental consultation,June,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+3,Unspecified,June,Friday,179.0,108.0,18.0,27.0,1,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+15,Diseases of the musculoskeletal system and connective tissue,June,Monday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,40.0,40.0,2
+3,Dental consultation,June,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,24.0,38.0,0
+24,Dental consultation,June,Tuesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,3.0,41.0,1
+3,Dental consultation,June,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+5,Unjustified absence,June,Tuesday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+3,Dental consultation,June,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+28,Medical consultation,June,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+36,Medical consultation,June,Wednesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,2.0,50.0,1
+3,Mental and behavioural disorders,June,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+22,Factors influencing health status and contact with health services,June,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+24,Dental consultation,June,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,2.0,41.0,1
+18,Diseases of the digestive system,June,Tuesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,1.0,28.0,3
+18,Medical consultation,March,Wednesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,1.0,28.0,3
+1,Diseases of the musculoskeletal system and connective tissue,June,Tuesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+22,Medical consultation,July,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+28,Laboratory examination,July,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,4.0,28.0,3
+20,Diseases of the musculoskeletal system and connective tissue,July,Friday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,8.0,36.0,4
+21,Diseases of the eye and adnexa,July,Monday,268.0,22.0,8.0,32.0,0,2,0.0,0,0,0.0,25.0,8.0,33.0,3
+18,Laboratory examination,July,Friday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+34,Unjustified absence,July,Friday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+20,Unjustified absence,July,Monday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,4.0,36.0,4
+34,Dental consultation,July,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+26,"Pregnancy, childbirth and the puerperium",July,Monday,300.0,50.0,13.0,22.0,0,1,2.0,1,1,1.0,25.0,8.0,43.0,4
+2,Medical consultation,July,Monday,235.0,59.0,12.0,17.0,0,1,1.0,0,1,4.0,33.0,1.0,48.0,1
+24,Dental consultation,July,Tuesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,2.0,41.0,1
+28,Diseases of the circulatory system,July,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,40.0,28.0,2
+3,Dental consultation,July,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+36,Medical consultation,July,Friday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,1.0,50.0,1
+10,Patient follow-up,July,Friday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+11,Patient follow-up,July,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+5,Unjustified absence,July,Monday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+15,Dental consultation,July,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,1.0,40.0,4
+7,Medical consultation,July,Thursday,279.0,5.0,14.0,26.0,0,1,2.0,1,1,0.0,24.0,2.0,39.0,4
+3,Laboratory examination,August,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+17,Laboratory examination,August,Monday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,1.0,40.0,1
+24,Dental consultation,August,Tuesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,4.0,41.0,1
+34,Dental consultation,August,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,4.0,37.0,3
+11,Unjustified absence,August,Tuesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+5,Unjustified absence,August,Tuesday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+15,Dental consultation,August,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,4.0,40.0,4
+3,Laboratory examination,August,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+17,Laboratory examination,August,Tuesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+18,Medical consultation,August,Thursday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,16.0,28.0,3
+1,Medical consultation,August,Tuesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,4.0,37.0,1
+24,Dental consultation,August,Tuesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,1.0,41.0,1
+34,Dental consultation,August,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,5.0,37.0,3
+15,Dental consultation,August,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,2.0,40.0,4
+20,Dental consultation,August,Monday,260.0,94.0,11.0,29.0,0,1,4.0,1,0,0.0,23.0,3.0,36.0,4
+24,Dental consultation,September,Tuesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,1.0,41.0,1
+24,Dental consultation,March,Wednesday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,1.0,41.0,0
+34,Dental consultation,September,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+14,Medical consultation,September,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+15,Dental consultation,September,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,2.0,40.0,4
+22,Medical consultation,September,Friday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,8.0,30.0,3
+33,Medical consultation,September,Friday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,1.0,47.0,1
+3,Medical consultation,September,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+28,Medical consultation,September,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+22,Medical consultation,September,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+13,Medical consultation,September,Tuesday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+10,Patient follow-up,September,Tuesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+10,Patient follow-up,March,Wednesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+32,"Endocrine, nutritional and metabolic diseases",October,Thursday,289.0,94.0,29.0,16.0,0,1,0.0,0,0,2.0,36.0,1.0,49.0,0
+25,Diseases of the digestive system,October,Thursday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,3.0,32.0,3
+24,Unjustified absence,October,Friday,246.0,52.0,16.0,24.0,0,1,0.0,1,0,0.0,23.0,8.0,41.0,0
+32,Diseases of the genitourinary system,October,Wednesday,289.0,94.0,29.0,16.0,0,1,0.0,0,0,2.0,36.0,3.0,49.0,0
+15,Dental consultation,October,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,2.0,40.0,4
+34,Medical consultation,October,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+32,Medical consultation,October,Thursday,289.0,94.0,29.0,16.0,0,1,0.0,0,0,2.0,36.0,2.0,49.0,0
+15,Medical consultation,October,Friday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,1.0,40.0,4
+28,Medical consultation,October,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+13,Medical consultation,October,Tuesday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+13,Medical consultation,October,Tuesday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,3.0,31.0,4
+13,Diseases of the respiratory system,March,Wednesday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,3.0,31.0,4
+28,Medical consultation,October,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,4.0,28.0,3
+13,Unjustified absence,October,Tuesday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+3,Dental consultation,October,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+9,Certain infectious and parasitic diseases,October,Wednesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,1.0,58.0,1
+15,Medical consultation,October,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,1.0,40.0,4
+13,Diseases of the respiratory system,October,Thursday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+28,Diseases of the musculoskeletal system and connective tissue,October,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+13,Diseases of the respiratory system,October,Friday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+28,Diseases of the respiratory system,October,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+6,Medical consultation,October,Monday,189.0,56.0,13.0,32.0,0,1,2.0,0,0,2.0,25.0,8.0,33.0,3
+25,Diseases of the nervous system,October,Monday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,8.0,32.0,3
+25,Laboratory examination,March,Wednesday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,8.0,32.0,3
+33,Diseases of the respiratory system,October,Monday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,8.0,47.0,1
+28,Unspecified,October,Monday,225.0,50.0,9.0,37.0,1,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+28,Diseases of the musculoskeletal system and connective tissue,October,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+3,Factors influencing health status and contact with health services,November,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+34,Dental consultation,November,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+18,Neoplasms,November,Wednesday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,24.0,28.0,3
+3,Dental consultation,November,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+34,Diseases of the circulatory system,November,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+11,Blood donation,November,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+25,Certain infectious and parasitic diseases,November,Friday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,8.0,32.0,3
+28,Medical consultation,November,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,4.0,28.0,3
+10,Patient follow-up,November,Tuesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+15,Dental consultation,November,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,2.0,40.0,4
+15,Dental consultation,March,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,2.0,40.0,4
+34,Diseases of the musculoskeletal system and connective tissue,November,Thursday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+28,Diseases of the genitourinary system,November,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+3,Dental consultation,November,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,1.0,38.0,0
+34,Medical consultation,November,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+34,Diseases of the ear and mastoid process,November,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+28,Medical consultation,November,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+15,Unspecified,November,Tuesday,291.0,54.0,12.0,25.0,1,1,1.0,1,0,1.0,25.0,8.0,40.0,4
+11,Unspecified,November,Wednesday,289.0,69.0,13.0,32.0,1,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+33,Diseases of the genitourinary system,November,Thursday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,4.0,47.0,1
+5,Unspecified,November,Thursday,235.0,38.0,13.0,22.0,1,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+28,Medical consultation,November,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+13,Unjustified absence,November,Friday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+10,Dental consultation,November,Monday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,2.0,28.0,5
+3,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,32.0,38.0,2
+15,Dental consultation,December,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,1.0,40.0,4
+28,Medical consultation,December,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+22,Diseases of the musculoskeletal system and connective tissue,December,Friday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,1.0,30.0,3
+28,Medical consultation,December,Friday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+28,Medical consultation,December,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+10,Diseases of the genitourinary system,December,Thursday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,4.0,28.0,5
+17,"Symptoms, signs and abnormal clinical and laboratory findings",December,Friday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,2.0,40.0,1
+5,Unjustified absence,December,Friday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+12,"Symptoms, signs and abnormal clinical and laboratory findings",December,Monday,233.0,100.0,1.0,34.0,0,2,1.0,1,0,4.0,21.0,8.0,31.0,5
+22,Diseases of the musculoskeletal system and connective tissue,December,Tuesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,16.0,30.0,3
+28,Medical consultation,December,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+28,Medical consultation,December,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+14,"Symptoms, signs and abnormal clinical and laboratory findings",December,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,40.0,34.0,2
+14,Medical consultation,March,Wednesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,40.0,34.0,2
+22,Diseases of the skin and subcutaneous tissue,January,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,24.0,30.0,3
+22,Diseases of the skin and subcutaneous tissue,January,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,16.0,30.0,3
+17,Laboratory examination,January,Thursday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,2.0,40.0,1
+17,Laboratory examination,January,Friday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,2.0,40.0,1
+22,Diseases of the musculoskeletal system and connective tissue,January,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,3.0,30.0,3
+17,Laboratory examination,January,Wednesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,2.0,40.0,1
+32,Diseases of the respiratory system,January,Thursday,289.0,94.0,29.0,16.0,0,1,0.0,0,0,2.0,36.0,8.0,49.0,0
+17,"Symptoms, signs and abnormal clinical and laboratory findings",January,Friday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,3.0,40.0,1
+22,Physiotherapy,January,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+14,"Symptoms, signs and abnormal clinical and laboratory findings",January,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,8.0,34.0,1
+22,Physiotherapy,January,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+22,Physiotherapy,March,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+3,Physiotherapy,January,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+11,Diseases of the musculoskeletal system and connective tissue,January,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+3,Physiotherapy,January,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Physiotherapy,January,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+3,Diseases of the musculoskeletal system and connective tissue,February,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+28,Medical consultation,February,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+33,Certain infectious and parasitic diseases,February,Wednesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,8.0,47.0,1
+3,Physiotherapy,February,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+28,Dental consultation,February,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+28,Medical consultation,March,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+3,Physiotherapy,February,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+22,Physiotherapy,February,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+29,Dental consultation,February,Friday,225.0,48.0,15.0,24.0,0,4,2.0,1,0,2.0,28.0,2.0,28.0,4
+3,Physiotherapy,February,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+12,"Injury, poisoning and other consequences of external causes",February,Monday,233.0,100.0,1.0,34.0,0,2,1.0,1,0,4.0,21.0,2.0,31.0,5
+3,Physiotherapy,February,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+28,Diseases of the eye and adnexa,February,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+3,Physiotherapy,February,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Physiotherapy,March,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+22,Diseases of the musculoskeletal system and connective tissue,February,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+17,Medical consultation,February,Friday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,2.0,40.0,1
+3,Physiotherapy,February,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+12,Diseases of the skin and subcutaneous tissue,February,Wednesday,233.0,100.0,1.0,34.0,0,2,1.0,1,0,4.0,21.0,3.0,31.0,5
+22,Physiotherapy,February,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+3,Physiotherapy,February,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+3,Diseases of the musculoskeletal system and connective tissue,February,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+3,Physiotherapy,February,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+14,Laboratory examination,February,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,5.0,34.0,1
+25,Laboratory examination,February,Monday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,3.0,32.0,3
+3,Physiotherapy,February,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+28,Diseases of the eye and adnexa,February,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+3,Physiotherapy,February,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+33,Medical consultation,February,Tuesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,2.0,47.0,1
+28,Laboratory examination,February,Tuesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+28,Medical consultation,March,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+3,Physiotherapy,February,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+3,Physiotherapy,February,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+25,Laboratory examination,February,Friday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,2.0,32.0,3
+3,Physiotherapy,March,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+33,Medical consultation,March,Monday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,2.0,47.0,1
+9,Laboratory examination,March,Tuesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,3.0,58.0,1
+9,Diseases of the nervous system,March,Wednesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,3.0,58.0,1
+33,Laboratory examination,March,Tuesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,3.0,47.0,1
+9,Diseases of the skin and subcutaneous tissue,March,Tuesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,40.0,58.0,2
+9,Diseases of the nervous system,March,Wednesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,40.0,58.0,2
+3,Physiotherapy,March,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+28,Physiotherapy,March,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+3,Physiotherapy,March,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Physiotherapy,March,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+28,Laboratory examination,March,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,2.0,28.0,3
+22,Physiotherapy,March,Friday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,3.0,30.0,3
+25,Laboratory examination,March,Monday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,3.0,32.0,3
+10,"Injury, poisoning and other consequences of external causes",March,Monday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+3,Diseases of the musculoskeletal system and connective tissue,March,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,8.0,38.0,0
+3,Physiotherapy,March,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+22,Physiotherapy,March,Friday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+3,Diseases of the respiratory system,March,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,4.0,38.0,0
+33,Diseases of the musculoskeletal system and connective tissue,March,Monday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,2.0,47.0,1
+3,Physiotherapy,March,Monday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+28,Diseases of the eye and adnexa,March,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+28,Medical consultation,March,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+3,Physiotherapy,March,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,2.0,38.0,0
+11,Medical consultation,March,Wednesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+9,Laboratory examination,March,Wednesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,2.0,58.0,1
+33,Medical consultation,March,Thursday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,3.0,47.0,1
+3,Physiotherapy,March,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+22,Medical consultation,March,Friday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+3,Physiotherapy,March,Friday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Physiotherapy,March,Tuesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+16,Medical consultation,March,Wednesday,118.0,29.0,24.0,19.0,0,1,2.0,1,1,0.0,25.0,8.0,46.0,1
+14,Diseases of the musculoskeletal system and connective tissue,March,Wednesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,24.0,34.0,2
+3,Physiotherapy,March,Wednesday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+3,Physiotherapy,March,Thursday,179.0,108.0,18.0,27.0,0,1,0.0,1,0,0.0,31.0,3.0,38.0,0
+22,Diseases of the musculoskeletal system and connective tissue,March,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+11,"Injury, poisoning and other consequences of external causes",March,Monday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,40.0,33.0,2
+13,Patient follow-up,March,Wednesday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,8.0,31.0,4
+28,Diseases of the musculoskeletal system and connective tissue,April,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+34,Diseases of the respiratory system,April,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+10,"Injury, poisoning and other consequences of external causes",April,Tuesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+33,"Injury, poisoning and other consequences of external causes",April,Wednesday,248.0,42.0,14.0,18.0,0,1,2.0,0,0,1.0,32.0,8.0,47.0,1
+6,Diseases of the musculoskeletal system and connective tissue,April,Thursday,189.0,56.0,13.0,32.0,0,1,2.0,0,0,2.0,25.0,8.0,33.0,3
+22,Physiotherapy,April,Friday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+13,Diseases of the eye and adnexa,April,Monday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,24.0,31.0,2
+13,Diseases of the respiratory system,March,Wednesday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,24.0,31.0,2
+17,Certain conditions originating in the perinatal period,April,Tuesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,2.0,40.0,1
+36,Medical consultation,April,Tuesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,3.0,50.0,1
+10,Medical consultation,April,Tuesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,2.0,28.0,5
+34,Diseases of the respiratory system,April,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+1,Patient follow-up,April,Friday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+28,"Injury, poisoning and other consequences of external causes",April,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+25,Certain conditions originating in the perinatal period,April,Tuesday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,3.0,32.0,3
+22,Physiotherapy,April,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+14,Dental consultation,April,Tuesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,4.0,34.0,1
+14,Medical consultation,March,Wednesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,4.0,34.0,1
+28,"Injury, poisoning and other consequences of external causes",April,Thursday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+36,Diseases of the genitourinary system,April,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,2.0,50.0,1
+1,Patient follow-up,May,Monday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,8.0,37.0,1
+29,"Injury, poisoning and other consequences of external causes",May,Wednesday,225.0,48.0,15.0,24.0,0,4,2.0,1,0,2.0,28.0,3.0,28.0,4
+25,Dental consultation,May,Wednesday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,2.0,32.0,3
+34,Diseases of the ear and mastoid process,May,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+34,Dental consultation,March,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+5,Unjustified absence,May,Wednesday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,8.0,43.0,1
+22,Diseases of the musculoskeletal system and connective tissue,May,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,1.0,30.0,3
+15,Dental consultation,May,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,2.0,40.0,4
+29,Diseases of the genitourinary system,May,Thursday,225.0,48.0,15.0,24.0,0,4,2.0,1,0,2.0,28.0,8.0,28.0,4
+26,"Injury, poisoning and other consequences of external causes",May,Friday,300.0,50.0,13.0,22.0,0,1,2.0,1,1,1.0,25.0,40.0,43.0,2
+29,Patient follow-up,May,Friday,225.0,48.0,15.0,24.0,0,4,2.0,1,0,2.0,28.0,8.0,28.0,4
+22,Physiotherapy,May,Friday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+36,Medical consultation,May,Monday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,2.0,50.0,1
+36,Mental and behavioural disorders,May,Tuesday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,3.0,50.0,1
+34,Dental consultation,May,Tuesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,1.0,37.0,3
+36,Unspecified,May,Tuesday,118.0,26.0,18.0,15.0,1,1,1.0,1,0,0.0,31.0,8.0,50.0,1
+22,Physiotherapy,May,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+23,Unspecified,May,Wednesday,378.0,98.0,11.0,29.0,1,1,2.0,0,1,4.0,21.0,8.0,36.0,5
+17,Certain conditions originating in the perinatal period,May,Friday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,1.0,40.0,1
+17,Laboratory examination,March,Wednesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,1.0,40.0,1
+14,Diseases of the respiratory system,May,Monday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,40.0,34.0,2
+25,Diseases of the respiratory system,May,Monday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,8.0,32.0,3
+15,Patient follow-up,May,Wednesday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,8.0,40.0,4
+17,Diseases of the respiratory system,May,Wednesday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+28,Diseases of the nervous system,May,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+28,Medical consultation,March,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,3.0,28.0,3
+18,Diseases of the respiratory system,May,Thursday,330.0,34.0,4.0,37.0,0,2,0.0,0,0,0.0,25.0,8.0,28.0,3
+25,Medical consultation,May,Thursday,235.0,29.0,8.0,33.0,0,3,0.0,0,0,0.0,25.0,2.0,32.0,3
+10,Diseases of the eye and adnexa,May,Monday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+14,Medical consultation,May,Wednesday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,2.0,34.0,1
+17,Laboratory examination,May,Friday,179.0,40.0,17.0,25.0,0,2,2.0,0,1,0.0,22.0,8.0,40.0,1
+14,Diseases of the respiratory system,May,Friday,155.0,28.0,14.0,31.0,0,1,2.0,1,0,0.0,25.0,8.0,34.0,1
+28,Diseases of the digestive system,May,Monday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,1.0,28.0,3
+16,Diseases of the eye and adnexa,June,Wednesday,118.0,29.0,24.0,19.0,0,1,2.0,1,1,0.0,25.0,8.0,46.0,1
+22,Physiotherapy,June,Wednesday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,3.0,30.0,3
+34,Unjustified absence,June,Friday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+34,Diseases of the respiratory system,June,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,8.0,37.0,3
+36,"Injury, poisoning and other consequences of external causes",June,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,24.0,50.0,2
+12,"Injury, poisoning and other consequences of external causes",June,Friday,233.0,100.0,1.0,34.0,0,2,1.0,1,0,4.0,21.0,8.0,31.0,5
+22,Physiotherapy,June,Friday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+2,Unspecified,June,Monday,235.0,59.0,12.0,17.0,1,1,1.0,0,1,4.0,33.0,8.0,48.0,1
+21,Unspecified,June,Monday,268.0,22.0,8.0,32.0,1,2,0.0,0,0,0.0,25.0,8.0,33.0,3
+36,"Injury, poisoning and other consequences of external causes",June,Thursday,118.0,26.0,18.0,15.0,0,1,1.0,1,0,0.0,31.0,3.0,50.0,1
+22,Diseases of the musculoskeletal system and connective tissue,June,Thursday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,2.0,30.0,3
+15,Dental consultation,June,Thursday,291.0,54.0,12.0,25.0,0,1,1.0,1,0,1.0,25.0,2.0,40.0,4
+22,Diseases of the musculoskeletal system and connective tissue,June,Monday,179.0,54.0,9.0,35.0,0,3,0.0,0,0,0.0,19.0,3.0,30.0,3
+34,Laboratory examination,June,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+12,Patient follow-up,June,Thursday,233.0,100.0,1.0,34.0,0,2,1.0,1,0,4.0,21.0,8.0,31.0,5
+34,Diseases of the ear and mastoid process,June,Friday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+34,Diseases of the respiratory system,June,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,3.0,37.0,3
+12,Patient follow-up,June,Wednesday,233.0,100.0,1.0,34.0,0,2,1.0,1,0,4.0,21.0,3.0,31.0,5
+5,Unjustified absence,July,Wednesday,235.0,38.0,13.0,22.0,0,1,1.0,1,0,0.0,38.0,4.0,43.0,1
+12,"Injury, poisoning and other consequences of external causes",July,Friday,233.0,100.0,1.0,34.0,0,2,1.0,1,0,4.0,21.0,2.0,31.0,5
+12,"Injury, poisoning and other consequences of external causes",March,Wednesday,233.0,100.0,1.0,34.0,0,2,1.0,1,0,4.0,21.0,2.0,31.0,5
+9,Diseases of the nervous system,July,Monday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,8.0,58.0,1
+34,Dental consultation,July,Monday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,4.0,37.0,3
+9,Diseases of the nervous system,July,Tuesday,228.0,19.0,16.0,7.0,0,1,2.0,0,0,1.0,22.0,40.0,58.0,2
+6,Patient follow-up,July,Tuesday,189.0,56.0,13.0,32.0,0,1,2.0,0,0,2.0,25.0,16.0,33.0,3
+34,Medical consultation,July,Wednesday,118.0,22.0,10.0,28.0,0,1,0.0,0,0,0.0,28.0,2.0,37.0,3
+10,Patient follow-up,July,Wednesday,361.0,114.0,3.0,37.0,0,1,1.0,1,0,4.0,27.0,8.0,28.0,5
+28,Patient follow-up,July,Wednesday,225.0,50.0,9.0,37.0,0,1,1.0,0,0,2.0,24.0,8.0,28.0,3
+13,Diseases of the musculoskeletal system and connective tissue,July,Monday,369.0,28.0,12.0,34.0,0,1,3.0,1,0,0.0,25.0,40.0,31.0,2
+11,Diseases of the genitourinary system,July,Tuesday,289.0,69.0,13.0,32.0,0,1,2.0,1,0,1.0,30.0,8.0,33.0,4
+1,Diseases of the digestive system,July,Tuesday,235.0,20.0,14.0,28.0,0,3,1.0,0,0,1.0,29.0,4.0,37.0,1
+4,Unspecified,August,Tuesday,118.0,34.0,13.0,25.0,0,1,1.0,1,0,4.0,34.0,8.0,40.0,1
+8,Unspecified,February,Wednesday,231.0,63.0,14.0,26.0,0,1,2.0,1,0,2.0,35.0,8.0,39.0,4
+35,Unspecified,December,Friday,179.0,85.0,14.0,12.0,0,1,1.0,0,0,1.0,25.0,8.0,53.0,1
